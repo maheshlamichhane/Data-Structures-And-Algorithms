@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;eight_Binary_Search_Tree&apos; to &apos;8.Binary Search Tree&apos;&#x0D;&#x0A;- Original element: &apos;eight_Binary_Search_Tree&apos;&#x0D;&#x0A;- Renamed element: &apos;eight_Binary_Search_Tree&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;eight_Binary_Search_Tree&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=eight_Binary_Search_Tree" name="8.Binary Search Tree" references="true" stamp="1705473642994" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;8.Binary Search Tree/intro.tx&apos; to &apos;intro.txt&apos;" description="Rename resource &apos;intro.tx&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="intro.tx" name="intro.txt" stamp="1705473748230" updateReferences="true"/>
+</session>
