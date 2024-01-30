@@ -26,6 +26,24 @@ iv. Insert a node in AVL Tree
 v. Delete a node from AVL Tree
 vi. Delete the entire AVL tree
 
+AVL Tree Insert a Node:->
+i. Rotation is not required
+ii. Rotation is required
+
+AVL Tree Delete a Node:->
+i. Rotation is not required
+	* the node to be deleted is leaf node
+	* the node to be deleted has a child node
+	* the node to be deleted has a two child node
+ii. Rotation is required
+	* Left Left Condition(LL)
+	* Left Right Condition(LR)
+	* Right Right Condition(RR)
+	* Right Left Condition(RL)
+	
+	
+	
+
 
 
 

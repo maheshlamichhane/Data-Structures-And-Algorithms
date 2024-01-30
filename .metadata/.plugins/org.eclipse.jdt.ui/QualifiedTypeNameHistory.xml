@@ -15,4 +15,5 @@
     <fullyQualifiedTypeName name="com.lamichhane.tree.binary.linkedlist.BinaryTreeLinkedList"/>
     <fullyQualifiedTypeName name="com.lamichhane.binary.search.tree.BinarySearchTree"/>
     <fullyQualifiedTypeName name="com.lamichhane.binary.search.tree.BinaryNode"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
 </qualifiedTypeNameHistroy>
