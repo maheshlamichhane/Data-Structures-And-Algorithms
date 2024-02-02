@@ -4,5 +4,5 @@
 /**
  * 
  */
-module nine_AVL_Tree {
+module Eleven_Trie {
 }

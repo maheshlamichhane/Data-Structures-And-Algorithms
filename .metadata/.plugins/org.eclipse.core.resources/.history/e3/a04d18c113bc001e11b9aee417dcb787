@@ -1,7 +1,0 @@
-What is an AVL Tree?
--> An AVL tree is a self-balancing Binary Search Tree(BST) where the 
-difference between height of left and right sub trees cannot be more than
-one for all nodes.
--> If at any time heights of left and right sub trees differe by more than
-one, then  rebalancing is done to restore AVL property, this process is called
-rotation.
