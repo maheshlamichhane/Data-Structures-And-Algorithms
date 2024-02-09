@@ -20,4 +20,8 @@
     <fullyQualifiedTypeName name="com.lamichhane.binaryheap.BinaryHeap"/>
     <fullyQualifiedTypeName name="com.lamichhane.direct.chaining.DirectChaining"/>
     <fullyQualifiedTypeName name="com.lamichhane.linear.probing.LinearProbing"/>
+    <fullyQualifiedTypeName name="java.lang.IncompatibleClassChangeError"/>
+    <fullyQualifiedTypeName name="com.lamichhane.sort.insertion.InsertionSort"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
 </qualifiedTypeNameHistroy>
