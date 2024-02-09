@@ -24,4 +24,5 @@
     <fullyQualifiedTypeName name="com.lamichhane.sort.insertion.InsertionSort"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="com.lamichhane.sort.quick.QuickSort"/>
 </qualifiedTypeNameHistroy>
