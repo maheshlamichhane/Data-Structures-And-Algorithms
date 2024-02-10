@@ -1,4 +1,4 @@
-package com.lamichhane.graph.adjacencylist;
+package com.lamichhane.dfs.adjancencylist;
 
 import java.util.ArrayList;
 
@@ -24,13 +24,9 @@ public class Main {
 		g.addUndirectedEdge(2, 3);
 		g.addUndirectedEdge(3, 4);
 		
-		System.out.println(g.toString());
+	    g.bfs();
 		
-		
-		
-		
-		
-
+	
 	}
 
 }
